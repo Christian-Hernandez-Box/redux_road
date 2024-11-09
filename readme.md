@@ -77,3 +77,5 @@ console.log(state);
 ```
 
 This will log the updated state of the wagon journey after each action is dispatched.
+
+test
